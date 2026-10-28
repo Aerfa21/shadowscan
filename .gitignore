@@ -1,0 +1,26 @@
+# 凭据（绝不要提交）
+env.sh
+*.key
+*.pem
+
+# 扫描产物
+out/
+out_*/
+batch_out/
+verify_out*/
+scan.log
+*.jsonl
+*.csv
+!assets.example.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyz
+.venv/
+venv/
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/

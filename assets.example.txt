@@ -1,0 +1,6 @@
+# 资产清单：每行一个，# 注释
+# 支持：域名 / URL / IP / IP:端口
+example.com
+www.example.com
+https://app.example.com
+https://api.example.com:8443
